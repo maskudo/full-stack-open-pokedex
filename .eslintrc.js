@@ -25,5 +25,6 @@ module.exports = {
     "no-console": "error",
     "react/prop-types": 0,
     "no-console": "off",
+    "no-undef": "off",
   },
 };
